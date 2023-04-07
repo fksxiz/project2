@@ -114,7 +114,6 @@
         android:layout_height="wrap_content"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
-        android:text="Cancel"
         android:textAllCaps="false"
         android:textColor="@color/cl_white"
         android:background="@drawable/sh_button"
