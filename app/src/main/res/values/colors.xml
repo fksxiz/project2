@@ -12,4 +12,9 @@
 
     <color name="cl_blue">#1565C0</color>
     <color name="cl_white">#FFFFFF</color>
+    <color name="cl_alice_blue">#E3F2FD</color>
+    <color name="cl_white_cat">#FAFAFA</color>
+    <color name="cl_second">#0D47A1</color>
+    <color name="cl_main">#BBDEFB</color>
+    <color name="cl_gray">#3E3E3E</color>
 </resources>
